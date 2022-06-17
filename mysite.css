@@ -1,0 +1,182 @@
+BODY{MARGIN: 0PX;
+text-align: center;
+font-family: 'Merriweather', serif;
+
+}
+hr{margin-top: 0px;
+margin-bottom: 0px;}
+h1{
+    font-family: 'Sacramento',cursive;
+    margin-top: 0;
+}
+h2{
+font-family: "Montserrat",sans-serif;
+margin-top: 0;
+}
+h3{
+font-family: "Montserrat",sans-serif;
+margin-top: 0;}
+p{
+font-family: "Montserrat",sans-serif;
+margin-top: 0;
+}
+
+/*top container*/
+
+.TOPCONTAINER{background-color: WHITE;
+  position: relative;
+  height:750px;
+
+
+}
+
+.cloud1{
+  position: absolute;
+  width:200px;
+  height:150px;
+  right:100px;
+  padding-top: 80px;
+  }
+  .cloud2{
+    position: absolute;
+    width:200px;
+    height:150px;
+    left:250px;
+    padding-top: 80px;
+    }
+    .mountain1{position: absolute;
+      bottom:0px;
+      height:300px;
+      left: 0;
+      right:0;
+      margin: 0;}
+      .topp1{position: absolute;
+        display:inline-block;
+      top: 350px;
+    font-size: 35px;
+    color: #5EE6EB;
+    font-weight: normal;
+  }
+      .toph1{
+        position: absolute;
+          display:inline-block;
+          top: 250px;
+          font-size: 100px;
+      }
+
+/*MIDDLECONTAINER*/
+.MIDDLECONTAINER{MARGIN:0;
+HEIGHT:280PX;
+background-color: #B8FFF9;
+position: relative;
+}
+.giri{width:200px;
+height:200px;
+border-radius: 50%;
+position: absolute;
+padding-top: 10PX;
+
+}
+.botp{position: absolute;
+  display:inline-block;
+top: 250px;
+color: #1B1A17;
+
+}
+.both2{
+  position: absolute;
+    display:inline-block;
+    top: 200px;
+    font-size: 40px;
+    color: #1B1A17;
+
+}
+/*skills*/
+.skills{MARGIN:0;
+HEIGHT:400PX;
+background-color: #B8FFF9;
+position: relative;
+}
+.skillimg{width:200px;
+height:200px;}
+.skillh{font-size: 40px;
+display:inline-block;}
+.skillp1{position: absolute;
+  top:350px;
+  left:80px;
+
+font-size: 20px;
+}
+.skillp2{position: absolute;
+  top:350px;
+  left:600px;
+font-size: 20px}
+.skillp3{position: absolute;
+  top:350px;
+  right:80px;
+font-size: 20px;}
+.skilli1{
+  width:100px;
+  height:100px;
+  position: absolute;
+  left:130px;
+
+}
+.skilli2{
+  width:100px;
+  height:100px;
+  position: absolute;
+  left:640px;
+}
+.skilli3{
+  width:100px;
+  height:100px;
+  position: absolute;
+  right:120px;
+}
+/*work*/
+.work{MARGIN:0;
+HEIGHT:500PX;
+background-color: #B8FFF9;
+position: relative;
+}
+.workimg{width:200px;
+height:200px;
+background-color:#B8FFF9 ;
+position: absolute;
+top:20px;}
+.workh{font-size: 40px;
+display:inline-block;
+position: absolute;
+top:220px;}
+.worki1{width:100px;
+height:100px;
+position: absolute;
+left:250px;
+top:300px;}
+.worki2{width:200px;
+height:100px;
+position: absolute;
+right:250px;
+top:300px;}
+.gal{position: absolute;
+font-size: 15px;
+left:100px;
+top:400px}
+.rit{position: absolute;
+font-size: 15px;
+right:100px;
+top:400px;}
+/*contact*/
+.contact{MARGIN:0;
+height:100px;
+background-color: #42C2FF;
+}
+.contact1{display: inline-block;
+  MARGIN:10PX AUTO 10PX AUTO;
+
+}
+A{text-decoration: NONE;
+  padding-left: 10PX;
+}
+A:HOVER{COLOR:WHITE;}
